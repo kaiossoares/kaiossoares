@@ -4,7 +4,7 @@
 - ✏️ I study Systems Development at [Cotuca](https://cotuca.unicamp.br/cotuca/)
 - 🌌 I am fascinated by technology, space and aviation
 
-<br><br>
+<br>
 ## 📚 &nbsp;I'm studying at the moment
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
 
-<br><br>
+<br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiossoares&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
