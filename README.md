@@ -24,5 +24,5 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiossoares&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiossoares&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
 </p>
