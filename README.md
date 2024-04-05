@@ -1,7 +1,6 @@
 ## Hey, I'm Kaio! 👋
 
 
-- ✏️ I study Systems Development at [Cotuca](https://cotuca.unicamp.br/cotuca/)
 - 🌌 I am fascinated by technology, space and aviation
 
 <br><br>
